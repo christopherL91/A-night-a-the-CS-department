@@ -33,4 +33,4 @@ Student Computer Science KTH,Stockholm.
 
 
 The theme of this game is UNIX-commands. There are several questions in this game thatyou need to answer in order to win the game. Write the commands as you do in a BASH shell.
-This game is about a CS student at the local university in Denver, you will go around in school
+This game is about a CS student at the local university in Denver, you will go around in school and answer questions in order to win this game. Then a door is locked there will be an question with an UNIX-theme.
